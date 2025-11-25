@@ -12,23 +12,6 @@ A **flexible 3d hex grid map generation system** for Unity that allows runtime a
 - Works in both 2D and 3D projects.
 - Editor scripts included for efficient grid management.
 
----
-
-## Folder Structure
-
-Organize your Unity project like this for easy integration:
-
-├─ HexGridToolKit/
-│ │ ├─ Scripts/
-│ │ │ ├─ HexCell.cs
-│ │ │ ├─ HexGridManager.cs
-│ │ │ ├─ HexCellClickTester.cs # Testing purposes
-│ │ ├─ Prefabs/
-│ │ │ └─ HexCell.prefab
-│ │ ├─ Materials/
-│ │ └─ Editor/
-  │ │ └─ HexGridManagerEditor.cs
-
 
 ## Installation
 
